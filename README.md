@@ -1,4 +1,5 @@
 # Facial-keypoint-detection
+Abstract: As we move towards automation, we need the various processes to be easy like unlocking of mobile phones using face, which is the mobile should be able to recognize the face for which it will unlock the phone, this is achieved using detection of facial keypoints. Additionaly, facial keypoints can also be used in social- robots which can analyse human emotions.
 In this projects, using deep learning, I worked on detection of facial keypoints.
 The pipeline for the project:
 1. Loading and visualizing the dataset.
